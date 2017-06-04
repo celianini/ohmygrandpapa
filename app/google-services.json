@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854896830704",
+    "firebase_url": "https://ohmygrandpapa-8e389.firebaseio.com",
+    "project_id": "ohmygrandpapa-8e389",
+    "storage_bucket": "ohmygrandpapa-8e389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854896830704:android:0bb08c7c07f130bc",
+        "android_client_info": {
+          "package_name": "com.project.game.ohmygrandpapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854896830704-ch5988i0hej941d6dgt5ee0m270s05rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.game.ohmygrandpapa",
+            "certificate_hash": "80fd5b429fc12328b3b42802170434e9137f0998"
+          }
+        },
+        {
+          "client_id": "854896830704-sg218t5o142qtjasu8vtfh70p1jieehl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Ehd1nETYxVqpaHUyO6xyRTdgi93Zeyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854896830704-sg218t5o142qtjasu8vtfh70p1jieehl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
